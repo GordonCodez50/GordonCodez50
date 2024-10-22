@@ -1,0 +1,22 @@
+#portfolio-link {
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #000; /* Black text */
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.3s ease-in-out;
+}
+
+#portfolio-link:hover {
+  color: #007bff; /* Change text color on hover */
+}
+
+#logo {
+  margin-right: 8px; /* Add space between the image and text */
+  transition: transform 0.3s ease-in-out;
+}
+
+#portfolio-link:hover #logo {
+  transform: rotate(360deg); /* Rotate the image on hover */
+}
