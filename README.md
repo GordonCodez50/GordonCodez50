@@ -2,7 +2,9 @@
 I'm Gordon Godwin E, a tech enthusiast and self-proclaimed "techy." I enjoy diving deep into Python and exploring various tech projects.<br><br>I'm currently working on:<br>Python projects<br>Exploring emerging tech trends<br>Building innovative software solutions<br><br>I'm looking to collaborate on:<br>Python development<br>Open-source contributions<br>Creative tech solutions<br><br>I'm looking for help with:<br>Scaling projects<br>Debugging complex code<br>Advanced machine learning techniques<br><br>I'm currently learning:<br>Python libraries and frameworks<br>Data science<br>Automation tools<br><br>Ask me about:<br>Python tips and tricks<br>Cool tech tools<br>Problem-solving in coding<br><br>Fun fact:<br>I’m constantly tinkering with tech—whether it's animation or video-editing<br>im always in-front of a computer
 
 ## 🗺️ Portfolio
-[![Official_Website](https://framerusercontent.com/images/MjS0BO6Vzfsz8zjfCWlDGPGCn9w.png)(https://gordoncodez50.github.io/)]
+<a href="https://gordoncodez50.github.io/">
+  <img src="https://framerusercontent.com/images/MjS0BO6Vzfsz8zjfCWlDGPGCn9w.png" alt="Official Website" width="24" height="24">
+</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gordon_ge) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GordonGEOfficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GordonGEOfficial) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GGEdacheril) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCnLi6_Q-ltmnvFuKDxUzmnA) 
